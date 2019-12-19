@@ -78,16 +78,19 @@ body {
 
 .img-text-wrapper .subtitle {
     transition: 1s;
-    color: transparent;
+    font-weight: 800;
+    border-radius: 5%;
+    padding: 4%;
+    color: green;
 }
 
 .img-text-wrapper:hover .subtitle {
-    font-weight: 600;
-    color: skyblue;
+    background-color: white;
 }
 
 .logo-wrapper img {
     width: 50%;
     margin-bottom: 20px;
 }
+
 
